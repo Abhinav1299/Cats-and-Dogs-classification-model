@@ -49,7 +49,7 @@ import os
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
-path = "C:/Users/Dell/Desktop/abhi/practice/CatsAndDogs/random_test"
+path = "random_test"
 test=[]
 img_size=60
 def random_test():
@@ -68,17 +68,3 @@ def random_test():
     
     
 random_test()
-    
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
